@@ -5,7 +5,8 @@ This is my first android app. This app displays "hello from Tella" to the user a
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="helloApp.gif" width=200><br>
+<img src="" width=200><br>
 
 
 ### Required User Stories
